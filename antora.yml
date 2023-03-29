@@ -1,0 +1,6 @@
+name: Multivibrator
+title: Мультивибратор на 2 светодиодах
+version: 1.0.0
+start_page: index.adoc
+nav:
+- modules/ROOT/nav.adoc
